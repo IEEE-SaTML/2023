@@ -1,10 +1,11 @@
 # Site settings
-baseurl = "https://satml.org/"
+baseurl = "https://satml.org/2023/"
 languageCode = "en-us"
 title = "IEEE SaTML 2023"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
+canonifyURLs = true
 
 # Google Analytics tracking
 googleAnalytics = ""
